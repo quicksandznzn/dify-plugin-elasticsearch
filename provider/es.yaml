@@ -93,6 +93,23 @@ credentials_for_provider:
     show_on:
       - value: basic
         variable: auth_method
+  verify_certs:
+    type: select
+    required: false
+    variable: verify_certs
+    label:
+      en_US: Verify Certs
+      zh_Hans: 验证证书
+    options:
+      - value: "yes"
+        label:
+          en_US: "Yes"
+          zh_Hans: 是
+      - value: "no"
+        label:
+          en_US: "No"
+          zh_Hans: 否
+    default: "yes"
 tools:
   - tools/query.yaml
   - tools/create.yaml
