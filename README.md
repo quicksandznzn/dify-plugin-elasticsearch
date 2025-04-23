@@ -6,8 +6,9 @@
 - **Type:** tool
 
 ### Description
-
-This plugin is used to search for data in Elasticsearch.
+- Support version 7.17+
+- Support mode create/query , delete and update not in plain
+- This plugin is used to search for data in Elasticsearch.
 
 ### Usage
 
