@@ -7,7 +7,7 @@
 
 ### Description
 - Support version 7.17+
-- Support mode create/query , delete and update not in plain
+- Support mode create/query , delete and update not in plan
 - This plugin is used to search for data in Elasticsearch.
 
 ### Usage
