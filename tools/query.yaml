@@ -80,6 +80,17 @@ parameters:
       zh_Hans: 文档数量
     llm_description: Elasticsearch Query Size
     form: llm
+  - name: collapse
+    type: string
+    required: false
+    label:
+      en_US: Collapse
+      zh_Hans: Collapse
+    human_description:
+      en_US: Colapse
+      zh_Hans: Colapse
+    llm_description: Collapse part of the DSL query
+    form: llm
 extra:
   python:
     source: tools/query.py
