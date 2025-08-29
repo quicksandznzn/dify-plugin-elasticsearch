@@ -23,3 +23,9 @@
 - Create Example:
 
 ![img.png](_assets/img-3.png)
+
+**Contributors**
+
+<a href="https://github.com/quicksandznzn/dify-plugin-elasticsearch/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=quicksandznzn/dify-plugin-elasticsearch" />
+</a>
