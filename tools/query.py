@@ -13,7 +13,7 @@ class ElasticsearchQueryTool(Tool, ElasticsearchBaseTool):
         query = tool_parameters.get("query")
         from_ = tool_parameters.get("from", 0)
         size = tool_parameters.get("size", 10)
-        collapse = tool_parameters.get("collapse", None)
+        collapse = tool_parameters.get("collapse")
         source_includes = tool_parameters.get("source_includes", "*")
         sort = tool_parameters.get("sort", None)
         resp = client.search(

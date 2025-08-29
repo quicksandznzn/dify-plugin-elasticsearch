@@ -87,8 +87,8 @@ parameters:
       en_US: Collapse
       zh_Hans: Collapse
     human_description:
-      en_US: Colapse
-      zh_Hans: Colapse
+      en_US: Collapse
+      zh_Hans: Collapse
     llm_description: Collapse part of the DSL query
     form: llm
 extra:
