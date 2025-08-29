@@ -1,8 +1,8 @@
 ## Elasticsearch
 
-- **Author:** [quicksandzn](https://github.com/quicksandznzn), [Nikola Milosevic](https://github.com/nikolamilosevic86)
+- **Author:** [quicksandzn](https://github.com/quicksandznzn)
 - **Github:** https://github.com/quicksandznzn/dify-plugin-elasticsearch
-- **Version:** 0.0.61
+- **Version:** 0.0.7
 - **Type:** tool
 
 ### Description
